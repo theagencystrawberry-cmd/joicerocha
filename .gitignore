@@ -1,0 +1,28 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Arquivos comprimidos (remova esta linha se quiser incluir o zip)
+*.zip
+*.rar
+*.7z
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de ambiente (se houver no futuro)
+.env
+.env.local
+.env.*.local
+

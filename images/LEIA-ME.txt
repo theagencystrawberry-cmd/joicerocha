@@ -1,0 +1,22 @@
+===========================================
+PASTA DE IMAGENS - DESAFIO 30 DIAS CONSTANTES
+===========================================
+
+Coloque as seguintes imagens nesta pasta:
+
+CARROSSEL DE RESULTADOS (6 imagens):
+- An-De-00.webp (552x515px recomendado)
+- An-De-01.webp (552x515px recomendado)
+- An-De-02.webp (552x515px recomendado)
+- An-De-03.webp (552x515px recomendado)
+- An-De-04.webp (552x515px recomendado)
+- An-De-05.webp (552x515px recomendado)
+
+FOTO DA EXPERT:
+- Destaque3.webp (500x600px recomendado)
+
+===========================================
+NOTA: Se as imagens não forem encontradas,
+a página exibirá placeholders automaticamente.
+===========================================
+
